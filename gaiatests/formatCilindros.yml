@@ -1,0 +1,10 @@
+rhythm:
+    method: degara
+    minTempo: 40
+    maxTempo: 208
+
+tonal:
+    frameSize: 4096
+    hopSize: 2048
+    zeroPadding: 0
+
