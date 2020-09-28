@@ -1,5 +1,5 @@
-NR__EL__PiezaCilindrero02_0040.555692.wav
-NR__EL__PiezaCilindrero71_0018.063492.wav
-NR__EL__PiezaCilindrero09_0025.324376.wav
-NR__EL__PiezaCilindrero67_0017.631837.wav
-NR__EL__PiezaCilindrero57_0046.297664.wav
+NR__EL__PiezaCilindrero59_0012.269116.wav
+NR__EL__PiezaCilindrero05_0014.122268.wav
+NR__EL__PiezaCilindrero62_0005.836893.wav
+NR__EL__PiezaCilindrero47_0038.578776.wav
+NR__EL__PiezaCilindrero76_0028.398254.wav
